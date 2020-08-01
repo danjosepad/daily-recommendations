@@ -12,3 +12,4 @@ Front-End
 - Otimizar o bundle do Javascript - https://www.youtube.com/watch?v=MxBCPc7bQvM
 - Notificações na Web - https://www.youtube.com/watch?v=J_t8c9HOjBc
 - Pagamentos na Web - https://www.youtube.com/watch?v=ZXmKKV7R72c
+- Debugando com Javascript - https://www.youtube.com/watch?v=H0XScE08hy8
