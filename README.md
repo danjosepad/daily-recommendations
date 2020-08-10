@@ -5,6 +5,10 @@ Espero que o conteúdo apresentado consiga ajudar a apresentar as melhores prát
 
 Tópicos
 
+Programação
+
+ -Um júnior já deveria saber como reduzir a quantidade de IFs de um código (e você, sabe?) - https://www.youtube.com/watch?v=Lf3ZV0UsnEo
+
 Front-End
 
 - Melhores práticas para formulários - https://www.youtube.com/watch?v=alGcULGtiv8
