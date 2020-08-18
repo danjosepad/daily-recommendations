@@ -10,6 +10,7 @@ Programação
  - Um júnior já deveria saber como reduzir a quantidade de IFs de um código (e você, sabe?) - https://www.youtube.com/watch?v=Lf3ZV0UsnEo
  - Melhorar o uso do DevTools - https://www.youtube.com/watch?v=5fLW5Q5ODiE
  - Curso para melhorar o uso do Google Chrome Developer Tools - https://www.youtube.com/watch?v=x4q86IjJFag
+ 
 Front-End
 
 - Melhores práticas para formulários - https://www.youtube.com/watch?v=alGcULGtiv8
@@ -19,3 +20,4 @@ Front-End
 - Pagamentos na Web - https://www.youtube.com/watch?v=ZXmKKV7R72c
 - Debugando com Javascript - https://www.youtube.com/watch?v=H0XScE08hy8
 - Cross Origin - https://www.youtube.com/watch?v=vfAHa5GBLio
+- Como debugar em Javascript - https://www.youtube.com/watch?v=H0XScE08hy8
