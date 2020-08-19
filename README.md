@@ -21,3 +21,4 @@ Front-End
 - Debugando com Javascript - https://www.youtube.com/watch?v=H0XScE08hy8
 - Cross Origin - https://www.youtube.com/watch?v=vfAHa5GBLio
 - Como debugar em Javascript - https://www.youtube.com/watch?v=H0XScE08hy8
+- Melhorar carregamento de páginas - https://www.youtube.com/watch?v=5fLW5Q5ODiE
