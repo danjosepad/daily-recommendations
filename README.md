@@ -23,3 +23,4 @@ Front-End
 - Como debugar em Javascript - https://www.youtube.com/watch?v=H0XScE08hy8
 - Melhorar carregamento de páginas - https://www.youtube.com/watch?v=5fLW5Q5ODiE
 - Trabalhando com imagens - https://www.youtube.com/watch?v=F9VCfA6JJ9U
+- Navegação - https://www.youtube.com/watch?v=qD7SecF8qWA
